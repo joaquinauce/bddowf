@@ -1,0 +1,9 @@
+[
+  {
+    "label": "INICIO",
+    "icon": "fa-solid fa-gauge",
+    "routerLink": [ "/bddoWF/index" ],
+    "title": "Inicio",
+    "roles": [ "Responsable AFA", "Responsable Liga", "Responsable Club", "Jugador", "Directivo", "Responsable Disciplina" ]
+  }
+]

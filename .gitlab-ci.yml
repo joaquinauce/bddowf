@@ -1,0 +1,9 @@
+default: 
+    tags: 
+        - dotnet
+
+stages:          # List of stages for jobs, and their order of execution
+  - test
+
+include:
+    template: Security/SAST.gitlab-ci.yml
